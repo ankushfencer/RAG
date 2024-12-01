@@ -1,0 +1,10 @@
+streamlit
+# sentence-transformers
+# faiss-cpu==1.7.2
+langchain
+openai
+pymupdf
+python-dotenv
+langchain-community
+chromadb
+langchain_groq
